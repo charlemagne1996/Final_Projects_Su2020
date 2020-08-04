@@ -57,4 +57,4 @@ For hypothesis 3, in predictive modeling, the players that are kept at last in t
 
 For hypothesis 4, neither does player's EFF value or his PER value has a "statistically significant" postive relationship with the recruiting rating of him (although both correlation coefficients are positive). This indicates that better talent does not directly yield better performance: Adam Miller and Andrew Curbelo have to work hard, and lower rated rookies do have chance!
 
-    Please refer to Project.ipynb for the detailed process of analysis
+`Please refer to Project.ipynb for the detailed process of analysis`
